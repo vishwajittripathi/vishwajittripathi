@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @vishwajittripathi
-- 👀 I’m interested in bash_scripting, javascript 
-- 🌱 I’m currently learning javascript & git
+- 👀 I’m interested in open source
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me @t_vishwajit
 
